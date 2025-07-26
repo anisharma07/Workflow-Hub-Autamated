@@ -1,5 +1,12 @@
 # GitHub Repository Automation Script
 
+## 📚 Quick Navigation
+
+- 🚀 **[Quick Setup Guide](./QUICK_SETUP_DOC.md)** - Get started in 5 minutes
+- 📖 **[Workflows Documentation](./WORKFLOWS_DOC.md)** - Detailed workflow explanations
+
+---
+
 This automation script helps you efficiently manage multiple GitHub repositories by:
 
 1. **Pushing `.github/workflows` folder** to the main branch of multiple repositories
@@ -269,4 +276,5 @@ subprocess.run(['git', 'push', 'origin', 'your-branch'], check=True, capture_out
 ## License
 
 This automation script is provided as-is for repository management purposes.
+
 # workflow-automated-upload
