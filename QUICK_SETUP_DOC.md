@@ -13,8 +13,8 @@
 ### Step 1: Clone This Repository
 
 ```bash
-git clone https://github.com/anisharma07/Workflow-Hub-Autamated.git
-cd Workflow-Hub-Autamated
+https://github.com/anisharma07/Workflows-Upload-Automated.git
+cd Workflows-Upload-Automated
 ```
 
 ### Step 2: Create GitHub Classic Token
